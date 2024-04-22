@@ -4,7 +4,7 @@
  Neste desafio aprendi um pouco mais sobre funções, o quanto ela pode facilitar nossas vidas.
 
  Foi muito bom poder quebrar cabeça e tentando desvendar como resolver esse desafio, tentar de várias formas
- executar as funnções, mudanndo e arrumando um jeito de encaixar os códigos.
+ executar as funções, mudando e arrumando um jeito de encaixar os códigos.
 
  Gostaria de deixar meu agradecimento ao professor Guilherme, explica o conteúdo com excelência, parabéns. 
 
